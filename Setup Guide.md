@@ -24,6 +24,7 @@ The setup steps I followed is below:
 <img width="622" alt="a638aee6ec134e3daeefd8f1162b1b2" src="https://user-images.githubusercontent.com/114255407/195625445-60fb7e48-99a9-4af2-bd6a-474d7540d810.png">
 
 • During installation, I tick the box to register the path to the Arm compiler as an environment variable in the Windows shell when prompted to do  so. 
+
 <img width="375" alt="39c675ee062e1b5af89f1b03a5f8c35" src="https://user-images.githubusercontent.com/114255407/195626084-3f726495-fa1b-42ee-aedd-717471a8be1f.png">
 
 ### 2)CMake
